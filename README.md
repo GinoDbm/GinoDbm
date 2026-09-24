@@ -28,22 +28,23 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [42-KFS-1](https://github.com/GinoDbm/42-KFS-1) | Building a minimal x86 kernel from scratch — boot, GDT, screen, keyboard | C / ASM |
-| [ft_ping](https://github.com/GinoDbm/ft_ping) | Reimplementation of the `ping` command in pure C (raw sockets, ICMP) | C |
-| [42-Woody-WoodPacker](https://github.com/GinoDbm/42-Woody-WoodPacker) | ELF64 packer — encrypting and injecting code into binaries | C |
-| [libasm](https://github.com/GinoDbm/libasm) | Reimplementing standard C library functions in x86-64 assembly (NASM) | ASM |
+| [42-Override](https://github.com/GinoDbm/42-Override) | Binary exploitation CTF — reverse engineering and privilege escalation | C / Security |
+| 42-Rainfall | Reverse engineering & exploitation project — the precursor to Override | Security |
+| [42-Snowcrash](https://github.com/GinoDbm/42-Snowcrash) | CTF-style security project — finding and exploiting vulnerabilities | Security |
 | [42-Boot2Root](https://github.com/GinoDbm/42-Boot2Root) | Security challenge: boot-to-root exploitation writeups | C / Security |
-| [42-Inception-Of-Things](https://github.com/GinoDbm/42-Inception-Of-Things) | Kubernetes intro with K3s/K3d, Vagrant VMs and Argo CD continuous deployment | K8s |
 | [42-ft_transcendence](https://github.com/GinoDbm/42-ft_transcendence) | Full-stack web app — the 42 final group project | TypeScript |
-| [Season11-HTB](https://github.com/GinoDbm/Season11-HTB) | Pwned boxes during HackTheBox's Season 11 ranked mode | Python / Security |
 
 <details>
 <summary>📚 More 42 projects</summary>
 
+- **42-KFS-1** — building a minimal x86 kernel from scratch (boot, GDT, screen, keyboard)
+- **ft_ping** — reimplementation of the `ping` command in pure C (raw sockets, ICMP)
+- **42-Woody-WoodPacker** — ELF64 packer: encrypting and injecting code into binaries
+- **libasm** — standard C library functions reimplemented in x86-64 assembly
+- **Season11-HTB** — pwned boxes during HackTheBox's Season 11 ranked mode
 - **42-Minishell** — recreating a working shell in C
 - **42-Philosophers** — threads, mutexes and the dining philosophers problem
 - **42-Cub8K** — first raycaster in C with the minilibx
-- **42-Override / 42-Snowcrash** — CTF-style security projects
 - **42-Inception** — introduction to Docker
 - **Cybersecurity-Piscine** — 42's cybersecurity piscine projects
 - **42-Cpp-modules** — C++ modules 00–04
